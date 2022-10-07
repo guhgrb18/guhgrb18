@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAFOXpj0Mfw/VWW14ksqC6d79nshY1uaww/view?utm_content=DAFOXpj0Mfw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" min-width="400px" max-width="400px" width="400px" align="right" alt="Arte do Gu">
+<gif src="https://www.canva.com/design/DAFOXpj0Mfw/VWW14ksqC6d79nshY1uaww/view?utm_content=DAFOXpj0Mfw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" min-width="400px" max-width="400px" width="400px" align="right" alt="Arte do Gu">
 
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
