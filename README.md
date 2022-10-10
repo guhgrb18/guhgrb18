@@ -1,4 +1,11 @@
-<gif src="[https://www.canva.com/design/DAFOXpj0Mfw/VWW14ksqC6d79nshY1uaww/view?utm_content=DAFOXpj0Mfw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffrank_manzarek.artstation.com%2Fprojects%2F58qL0g&psig=AOvVaw064hqFVTz8TNXQ9Taa_nDi&ust=1665239233095000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPDB3NmpzvoCFQAAAAAdAAAAABAO)" min-width="400px" max-width="400px" width="400px" align="right" alt="Arte do Gu">
+
+![Profile views](https://gpvc.arturio.dev/gustavo-rocha-barbosa)
+
+ <div align="center">
+
+![Design sem nome](https://user-images.githubusercontent.com/44219208/194927250-fdffcaac-a22a-4939-93ad-c92b75fa98de.gif)
+  
+  <div/>
 
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
