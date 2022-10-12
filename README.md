@@ -1,6 +1,14 @@
 
 ![Profile views](https://gpvc.arturio.dev/gustavo-rocha-barbosa)
 
+<p align="left"> <img src="https://user-images.githubusercontent.com/44219208/195249621-98ebf989-c903-400c-8d48-63078c465b9d.gif" width="100" height="100" />
+  
+ <p align="center"> <strong>Welcome to Gustavo's GitHub</strong>
+  
+ <p align="right"> <img src="https://user-images.githubusercontent.com/44219208/195249046-7b956366-3aab-40a8-be37-00e7bba1b3b2.gif" width="100" height="100" />
+
+</p>
+
 
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
@@ -36,9 +44,3 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
 
-
-<p align="right">
-
-  <img src="https://user-images.githubusercontent.com/44219208/195249046-7b956366-3aab-40a8-be37-00e7bba1b3b2.gif" width="100" height="100" />
-  
-</p>
