@@ -1,14 +1,19 @@
 
 ![Profile views](https://gpvc.arturio.dev/gustavo-rocha-barbosa)
 
-<p align="left"> <img src="https://user-images.githubusercontent.com/44219208/195249621-98ebf989-c903-400c-8d48-63078c465b9d.gif" width="100" height="100" />
-  
- <p align="center"> <strong>Welcome to Gustavo's GitHub</strong>
-  
- <p align="right"> <img src="https://user-images.githubusercontent.com/44219208/195249046-7b956366-3aab-40a8-be37-00e7bba1b3b2.gif" width="100" height="100" />
+<h1>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/44219208/195249046-7b956366-3aab-40a8-be37-00e7bba1b3b2.gif" width="100" height="100" />
+<strong>Welcome to Gustavo's GitHub</strong> 
+<img src="https://user-images.githubusercontent.com/44219208/195249046-7b956366-3aab-40a8-be37-00e7bba1b3b2.gif" width="100" height="100" />
 </p>
 
+</h1>
+
+
+
+<img src="https://user-images.githubusercontent.com/44219208/195249621-98ebf989-c903-400c-8d48-63078c465b9d.gif" width="100" height="100" />
 
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
