@@ -1,11 +1,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/gustavo-rocha-barbosa)
 
- <div align="center">
-
-![Design sem nome](https://user-images.githubusercontent.com/44219208/194927250-fdffcaac-a22a-4939-93ad-c92b75fa98de.gif)
-  
-  <div/>
 
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
