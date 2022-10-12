@@ -1,7 +1,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/gustavo-rocha-barbosa)
 
-![gif_github](https://user-images.githubusercontent.com/44219208/195247893-a52f018d-f6d8-44ab-af35-4245f598ba6c.gif)
 
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
@@ -36,3 +35,5 @@
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
+
+
