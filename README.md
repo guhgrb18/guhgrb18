@@ -11,26 +11,32 @@
 
 </h1>
 
-<p align="left"> 
-
+<p align="center"> 
   Muito prazer, sou o <strong>Gustavo</strong><br> 
-  
-  🚀 Atualmente trabalho na área de <strong>Marketing Digital</strong>.<br>
-  
+  <p align="center"> 
+  🚀 Atualmente trabalho na área de <strong>Marketing Digital</strong> na <strong>Raccoon.Monks</strong><br>
+  <p align="center"> 
   ⚛️ Formado em <strong>Física</strong> na USP de São Carlos (IFSC)<br>
-  
+  <p align="center"> 
   💻 Apaixonado por <strong>Programação</strong>
   
 </p>
 
+<h2>
+
 <p align="center">
+
+  <img src="https://user-images.githubusercontent.com/44219208/195249621-98ebf989-c903-400c-8d48-63078c465b9d.gif" width="100" height="100" />
+  Entre em contato comigo
+  <img src="https://user-images.githubusercontent.com/44219208/195249621-98ebf989-c903-400c-8d48-63078c465b9d.gif" width="100" height="100" />
   
-  Entre em contato comigo: ⤵️
 </p>
+
+</h2>
 
 <p align="center">
   <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gustavorochab18@gmail.com" /></a>
 
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
