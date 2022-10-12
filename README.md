@@ -11,14 +11,18 @@
 
 </h1>
 
-
-
-<img src="https://user-images.githubusercontent.com/44219208/195249621-98ebf989-c903-400c-8d48-63078c465b9d.gif" width="100" height="100" />
-
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+
+  Muito prazer, sou o <strong>Gustavo</strong><br> 
+  
+  🚀 Atualmente trabalho na área de <strong>Marketing Digital</strong>.<br>
+  
+  ⚛️ Formado em <strong>Física</strong> na USP de São Carlos (IFSC)<br>
+  
+  💻 Apaixonado por <strong>Programação</strong>
+  
 </p>
+
 
 <p align="left">
   🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
