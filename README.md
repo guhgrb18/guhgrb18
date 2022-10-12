@@ -14,11 +14,11 @@
 <p align="center"> 
   Muito prazer, sou o <strong>Gustavo</strong><br> 
   <p align="center"> 
-  🚀 Atualmente trabalho na área de <strong>Marketing Digital</strong> na <strong>Raccoon.Monks</strong><br>
+  🦝 Atualmente trabalho na área de <strong>Marketing Digital</strong> na <strong>Raccoon.Monks</strong>🦝<br>
   <p align="center"> 
-  ⚛️ Formado em <strong>Física</strong> na USP de São Carlos (IFSC)<br>
+  ⚛️ Formado em <strong>Física</strong> na USP de São Carlos (IFSC) ⚛️<br>
   <p align="center"> 
-  💻 Apaixonado por <strong>Programação</strong>
+  💻 Apaixonado por <strong>Programação</strong> 💻
   
 </p>
 
