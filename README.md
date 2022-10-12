@@ -17,7 +17,7 @@
 <p align="center"> 
   Muito prazer, sou o <strong>Gustavo</strong><br> 
   <p align="center"> 
-  🦝 Atualmente trabalho na área de <strong>Marketing Digital</strong> na <strong>Raccoon.Monks</strong>🦝<br>
+  🦝 Atualmente trabalho na área de <strong>Marketing Digital</strong> na <strong>Raccoon.Monks</strong> 🦝<br>
   <p align="center"> 
   ⚛️ Formado em <strong>Física</strong> na USP de São Carlos (IFSC) ⚛️<br>
   <p align="center"> 
@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gustavorochab18@gmail.com" /></a>
 
   <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link='https://www.linkedin.com/in/gustavo-rocha-barbosa-263424173/'" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-rocha-barbosa-263424173/"/></a>
 
   <a href="#" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
