@@ -11,6 +11,9 @@
 
 </h1>
 
+<br>
+<br>
+
 <p align="center"> 
   Muito prazer, sou o <strong>Gustavo</strong><br> 
   <p align="center"> 
@@ -21,6 +24,9 @@
   💻 Apaixonado por <strong>Programação</strong> 💻
   
 </p>
+
+<br>
+<br>
 
 <h2>
 
