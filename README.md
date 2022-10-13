@@ -24,6 +24,7 @@
   💻 Passionate about <strong>Programming</strong><br>
   🏊‍♂️ Free time Swimmer<br>
   🥊 Muay thai athlete<br>
+  🚴‍♂️ Cyclist in spare time
   
 </p>
 
