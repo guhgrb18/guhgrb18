@@ -18,7 +18,7 @@
 
 <p align="left"> 
   Nice to meet you, I'm <strong>Gustavo</strong><br> 
-  🦝 I work in the <strong>Digital Marketing</strong> area at <strong>Raccoon.Monks</strong> <br>
+  🦝 I work at <strong>Raccoon.Monks</strong> <br>
   ⚛️ Graduated in <strong>Physics</strong> at USP - São Carlos (IFSC)<br>
   📊 <strong>MBA</strong> in <strong>Data Science e Analytics</strong> at USP - ESALQ<br>
   💻 Passionate about <strong>Programming</strong><br>
