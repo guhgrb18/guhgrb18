@@ -4,9 +4,9 @@
 <h1>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/44219208/195249046-7b956366-3aab-40a8-be37-00e7bba1b3b2.gif" width="80" height="80" />
+<img src="https://user-images.githubusercontent.com/44219208/195249046-7b956366-3aab-40a8-be37-00e7bba1b3b2.gif" width="60" height="60" />
 <strong>Welcome to Gustavo's GitHub</strong> 
-<img src="https://user-images.githubusercontent.com/44219208/195249046-7b956366-3aab-40a8-be37-00e7bba1b3b2.gif" width="80" height="80" />
+<img src="https://user-images.githubusercontent.com/44219208/195249046-7b956366-3aab-40a8-be37-00e7bba1b3b2.gif" width="60" height="60" />
 </p>
 
 </h1>
@@ -46,12 +46,11 @@
   <a href="#" alt="Mysql">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
   
-</p>    
-  
-          
-[![card](https://github-readme-stats.vercel.app/api?username=gustavo-rocha-barbosa&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</p>      
 
-[![card](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-rocha-barbosa&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
+[![card](https://github-readme-stats.vercel.app/api?username=gustavo-rocha-barbosa&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-rocha-barbosa&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br>
 <br>
@@ -60,9 +59,9 @@
 
 <p align="center">
 
-  <img src="https://user-images.githubusercontent.com/44219208/195249621-98ebf989-c903-400c-8d48-63078c465b9d.gif" width="70" height="70" />
+  <img src="https://user-images.githubusercontent.com/44219208/195249621-98ebf989-c903-400c-8d48-63078c465b9d.gif" width="60" height="60" />
   Contact me
-  <img src="https://user-images.githubusercontent.com/44219208/195249621-98ebf989-c903-400c-8d48-63078c465b9d.gif" width="70" height="70" />
+  <img src="https://user-images.githubusercontent.com/44219208/195249621-98ebf989-c903-400c-8d48-63078c465b9d.gif" width="60" height="60" />
   
 </p>
 
