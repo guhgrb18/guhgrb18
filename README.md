@@ -14,19 +14,21 @@
 <br>
 <br>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=gustavo-rocha-barbosa&show_icons=true&theme=dracula">
+
 <p align="left"> 
   Nice to meet you, I'm <strong>Gustavo</strong><br> 
-  <p align="left"> 
-  🦝 I currently work in the <strong>Digital Marketing</strong> area at <strong>Raccoon.Monks</strong> 🦝<br>
-  <p align="left"> 
-  ⚛️ Graduated in <strong>Physics</strong> at USP - São Carlos (IFSC) ⚛️<br>
-  <p align="left"> 
-  📊 Master's Program (MBA) in <strong>Data Science e Analytics</strong> at USP - ESALQ 📊<br>
-  <p align="left"> 
-  💻 Passionate about <strong>Programming</strong> 💻
+  🦝 I currently work in the <strong>Digital Marketing</strong> area at <strong>Raccoon.Monks</strong> <br>
+  ⚛️ Graduated in <strong>Physics</strong> at USP - São Carlos (IFSC)<br>
+  📊 <strong>MBA</strong> in <strong>Data Science e Analytics</strong> at USP - ESALQ<br>
+  💻 Passionate about <strong>Programming</strong><br>
+  🏊‍♂️ Free time Swimmer<br>
+  🥊 Muay thai athlete<br>
   
 </p>
 
+<br>
+<br>
 <br>
 
 </h2>
@@ -55,10 +57,13 @@
 <br>
 <br>
 
-[![card](https://github-readme-stats.vercel.app/api?username=gustavo-rocha-barbosa&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-rocha-barbosa&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-rocha-barbosa&langs_count=8&theme=dracula">
 
+</p>
+
+<br>
 <br>
 
 <h2>
