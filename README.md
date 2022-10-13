@@ -25,6 +25,30 @@
   
 </p>
 
+</h2>
+
+<p align="center">
+  <a href="#" alt="Linux">
+  <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/></a>
+  
+  <a href="#" alt="Git">
+  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/></a>
+  
+  <a href="#" alt="R">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></a>
+  
+   <a href="#" alt="Python">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></a>
+  
+  <a href="#" alt="JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
+  
+  <a href="#" alt="Mysql">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+  
+</p>  
+
+
 <br>
 <br>
 
