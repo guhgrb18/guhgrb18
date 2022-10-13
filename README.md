@@ -41,7 +41,7 @@
 </h2>
 
 <p align="center">
-  <a href="gustavorochab18@gmail.com" alt="Gmail">
+  <a href="mailto:gustavorochab18@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
 
   <a href="https://www.linkedin.com/in/gustavo-rocha-barbosa-263424173/" alt="Linkedin">
