@@ -21,7 +21,7 @@
   🦝 I work at <strong>Raccoon.Monks</strong> <br>
   ⚛️ Graduated in <strong>Physics</strong> at USP - São Carlos (IFSC)<br>
   📊 <strong>MBA</strong> in <strong>Data Science e Analytics</strong> at USP - ESALQ<br>
-  💻 Passionate about <strong>Programming</strong><br>
+  💻 <strong>Programming</strong> Lover<br>
   🏊‍♂️ Free time Swimmer<br>
   🥊 Muay thai athlete<br>
   🚴‍♂️ Cyclist in spare time
