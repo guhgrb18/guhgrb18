@@ -4,9 +4,9 @@
 <h1>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/44219208/195249046-7b956366-3aab-40a8-be37-00e7bba1b3b2.gif" width="100" height="100" />
+<img src="https://user-images.githubusercontent.com/44219208/195249046-7b956366-3aab-40a8-be37-00e7bba1b3b2.gif" width="80" height="80" />
 <strong>Welcome to Gustavo's GitHub</strong> 
-<img src="https://user-images.githubusercontent.com/44219208/195249046-7b956366-3aab-40a8-be37-00e7bba1b3b2.gif" width="100" height="100" />
+<img src="https://user-images.githubusercontent.com/44219208/195249046-7b956366-3aab-40a8-be37-00e7bba1b3b2.gif" width="80" height="80" />
 </p>
 
 </h1>
@@ -15,13 +15,13 @@
 <br>
 
 <p align="center"> 
-  Muito prazer, sou o <strong>Gustavo</strong><br> 
+  Nice to meet you, I'm <strong>Gustavo</strong><br> 
   <p align="center"> 
-  🦝 Atualmente trabalho na área de <strong>Marketing Digital</strong> na <strong>Raccoon.Monks</strong> 🦝<br>
+  🦝 I currently work in the <strong>Digital Marketing</strong> area at <strong>Raccoon.Monks</strong> 🦝<br>
   <p align="center"> 
-  ⚛️ Formado em <strong>Física</strong> na USP de São Carlos (IFSC) ⚛️<br>
+  ⚛️ Graduated in <strong>Physics</strong> at USP - São Carlos (IFSC) ⚛️<br>
   <p align="center"> 
-  💻 Apaixonado por <strong>Programação</strong> 💻
+  💻 Passionate about <strong>Programming</strong> 💻
   
 </p>
 
@@ -32,9 +32,9 @@
 
 <p align="center">
 
-  <img src="https://user-images.githubusercontent.com/44219208/195249621-98ebf989-c903-400c-8d48-63078c465b9d.gif" width="100" height="100" />
-  Entre em contato comigo
-  <img src="https://user-images.githubusercontent.com/44219208/195249621-98ebf989-c903-400c-8d48-63078c465b9d.gif" width="100" height="100" />
+  <img src="https://user-images.githubusercontent.com/44219208/195249621-98ebf989-c903-400c-8d48-63078c465b9d.gif" width="70" height="70" />
+  Contact me
+  <img src="https://user-images.githubusercontent.com/44219208/195249621-98ebf989-c903-400c-8d48-63078c465b9d.gif" width="70" height="70" />
   
 </p>
 
