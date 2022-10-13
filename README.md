@@ -48,13 +48,11 @@
   
 </p>    
   
-<p align="center>
           
 [![card](https://github-readme-stats.vercel.app/api?username=gustavo-rocha-barbosa&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-rocha-barbosa&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-rocha-barbosa&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
-</p>  
 
 
 <br>
