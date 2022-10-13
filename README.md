@@ -21,6 +21,8 @@
   <p align="center"> 
   ⚛️ Graduated in <strong>Physics</strong> at USP - São Carlos (IFSC) ⚛️<br>
   <p align="center"> 
+  📊 Master's Program (MBA) in <strong>Data Science e Analytics</strong> at USP - ESALQ (In progress) 📊<br>
+  <p align="center"> 
   💻 Passionate about <strong>Programming</strong> 💻
   
 </p>
@@ -47,6 +49,9 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
   
 </p>      
+
+<br>
+<br>
 
 [![card](https://github-readme-stats.vercel.app/api?username=gustavo-rocha-barbosa&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-rocha-barbosa&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
