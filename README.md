@@ -14,18 +14,20 @@
 <br>
 <br>
 
-<p align="center"> 
+<p align="left"> 
   Nice to meet you, I'm <strong>Gustavo</strong><br> 
-  <p align="center"> 
+  <p align="left"> 
   🦝 I currently work in the <strong>Digital Marketing</strong> area at <strong>Raccoon.Monks</strong> 🦝<br>
-  <p align="center"> 
+  <p align="left"> 
   ⚛️ Graduated in <strong>Physics</strong> at USP - São Carlos (IFSC) ⚛️<br>
-  <p align="center"> 
-  📊 Master's Program (MBA) in <strong>Data Science e Analytics</strong> at USP - ESALQ (In progress) 📊<br>
-  <p align="center"> 
+  <p align="left"> 
+  📊 Master's Program (MBA) in <strong>Data Science e Analytics</strong> at USP - ESALQ 📊<br>
+  <p align="left"> 
   💻 Passionate about <strong>Programming</strong> 💻
   
 </p>
+
+<br>
 
 </h2>
 
@@ -57,7 +59,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-rocha-barbosa&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<br>
 <br>
 
 <h2>
