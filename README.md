@@ -20,7 +20,7 @@
   Nice to meet you, I'm <strong>Gustavo</strong><br> 
   🦝 I work at <strong>Raccoon.Monks</strong> <br>
   ⚛️ Graduated in <strong>Physics</strong> at USP - São Carlos (IFSC)<br>
-  📊 <strong>MBA</strong> in <strong>Data Science and Analytics</strong> at USP - ESALQ<br>
+  📊 <strong>MBA</strong> in <strong>Data Science & Analytics</strong> at USP - ESALQ<br>
   💻 <strong>Programming</strong> Lover<br>
   🏊‍♂️ Free time Swimmer<br>
   🥊 Muay thai athlete<br>
