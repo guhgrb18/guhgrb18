@@ -1,13 +1,4 @@
 
-<h1>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/44219208/195249046-7b956366-3aab-40a8-be37-00e7bba1b3b2.gif" width="60" height="60" />
-<strong>Welcome to Gustavo's GitHub</strong> 
-<img src="https://user-images.githubusercontent.com/44219208/195249046-7b956366-3aab-40a8-be37-00e7bba1b3b2.gif" width="60" height="60" />
-</p>
-
-</h1>
 
 <br>
 <br>
