@@ -1,6 +1,4 @@
 
-![Profile views](https://gpvc.arturio.dev/gustavo-rocha-barbosa)
-
 <h1>
 
 <p align="center">
